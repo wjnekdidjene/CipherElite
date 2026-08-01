@@ -65,7 +65,7 @@ Built on **Telethon** by **Rishabh Anand**, it solves the biggest problems in Te
 | **🎭 Native Fun Plugins** | Custom-written Games, Animations, and 'Magic' commands with **Zero Lag**. |
 | **🔄 Safe Updates** | Update your bot without losing your `vars` or configuration. |
 | **📊 Analytics** | Built-in performance monitoring and ping checks. |
-| **🔌 60+ Official Plugins** | 60+ official plugins by Rishabh Anand + growing community plugin library. |
+| **🔌 100+ Official Plugins** | 100+ official plugins and total 500+ commands by Rishabh Anand + growing community plugin library. |
 
 ---
 
