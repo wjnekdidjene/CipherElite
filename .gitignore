@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+DB/*.json
+data/*.json
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Session
+*.session
+*.session-journal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Bot
+bot.log
+session.journal
+
+# Git
+.git/
+.github/
+
+# Temp
+*.tmp
+temp/
