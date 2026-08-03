@@ -1,0 +1,23 @@
+{
+    "welcome": "👋 Добро пожаловать!",
+    "goodbye": "👋 До свидания!",
+    "error": "❌ Ошибка: {error}",
+    "success": "✅ Успешно!",
+    "loading": "⏳ Загрузка...",
+    "processing": "🔄 Обработка...",
+    "completed": "✅ Завершено!",
+    "access_denied": "⛔ Доступ запрещён!",
+    "admin_only": "👑 Только для администраторов!",
+    "user_not_found": "❌ Пользователь не найден!",
+    "invalid_input": "❌ Неверный ввод!",
+    "flood_wait": "⏳ Подождите {seconds} секунд!",
+    "no_permission": "⛔ У вас нет прав!",
+    "plugin_loaded": "✅ Плагин {name} загружен!",
+    "plugin_error": "❌ Ошибка в плагине {name}: {error}",
+    "request_limit": "⏳ Слишком много запросов! Подождите.",
+    "afk_set": "🫡 Ухожу в AFK! Причина: {reason}",
+    "afk_removed": "🫡 Добро пожаловать обратно! Время в AFK: {time}",
+    "afk_stats": "📊 Статистика AFK: {stats}",
+    "spam_started": "💥 Спам запущен! {count} сообщений",
+    "spam_stopped": "🛑 Спам остановлен! Отправлено: {count} сообщений"
+}
